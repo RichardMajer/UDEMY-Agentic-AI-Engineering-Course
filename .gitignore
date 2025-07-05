@@ -1,0 +1,72 @@
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtuálne prostredie
+venv/
+ENV/
+env/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logy a lokálne súbory
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Dokumentácia
+docs/_build/
+doc/_build/
+
+# Distribúcia / balíčkovanie
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+dist/
+*.tar.gz
+*.whl
